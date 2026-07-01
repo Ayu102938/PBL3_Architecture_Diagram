@@ -2,7 +2,7 @@
 title: "System Architecture Development"
 ---
 
-![System Architecture Development](images/Diagram1.png)
+![System Architecture Development](images/PBL3_Architecture_diagram_2_1.png)
 
 We selected a lightweight, highly compatible, and production-ready technology stack. The primary goal of this architecture is to minimize implementation complexity while maximizing development velocity.
 
@@ -28,7 +28,7 @@ As a serverless, self-contained, single-file database system, SQLite eliminates 
 
 # System Architecture Operation
 
-![System Architecture Operation](images/Diagram2.png)
+![System Architecture Operation](images/Operation_in_System_2.png)
 
 This diagram illustrates the runtime behavior and dynamic data flow during a typical user path-generation request.
 
